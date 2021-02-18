@@ -1,5 +1,16 @@
 ### Hi there 👋
+<h1>Who is YUNUS GÜNDÜZ ?</h1>
+<p>I am a lifetime student, coder and an humanist 💜</p>
 
+<h3>My Blogs:</h3>  <a href="http://ynsgndz.xyz/">ynsgndz.xyz</a><hr>
+
+<h2>Contact</h2>
+Linkedin :yunusgunduz
+<a href="http://fb.com/gndzyunus"><img src="https://www.facebook.com/images/icons-large/fb-xl-gradient.png"></a>
+
+github :ynsgndz
+
+mail:yns3gndz@hotmail.com.tr
 <!--
 **ynsgndz/ynsgndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
