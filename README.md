@@ -6,7 +6,6 @@
  *I also love to make photoshop (manipulation) and graphic design (logo,banner etc.) 
 <h2>All the developers say these words.<br>
  "Programming isn't about what you know; it's about what you can figure out."</h2>
-<h2>Contact</h2>
 
 <p>Linked<b>in:</b> <a href="https://www.linkedin.com/in/yunusgunduz/">linkedin/yunusgunduz</a></p>
 <p>Facebook:   <a href="http://fb.com/gndzyunus">facebook/yunusgunduz</a></p>
