@@ -7,14 +7,12 @@
 <h2>All the developers say these words.<br>
  "Programming isn't about what you know; it's about what you can figure out."</h2>
 <h2>Contact</h2>
-<center>
-  <a href="http://fb.com/gndzyunus"><img src="https://www.facebook.com/images/icons-large/fb-xl-gradient.png"></a> 
-  <a href="https://www.linkedin.com/in/yunusgunduz/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>
-</center>
+
+<p>Linked<b>in:</b> <a href="https://www.linkedin.com/in/yunusgunduz/">linkedin/yunusgunduz</a></p>
+<p>Facebook:   <a href="http://fb.com/gndzyunus">facebook/yunusgunduz</a></p>
 <h3><p>📫 If you want to reach me : yns3gndz@hotmail.com.tr</p></h3>
-<p><h3>My Blogs:  <a href="http://ynsgndz.xyz/">ynsgndz.xyz</a></h3></p>
 <p><h3> 💬 Medium: <a href="https://medium.com/@iynsgndz">medium/iynsgndz</a></p></h3> 
-</h3>
+<p><h3>My Blogs:  <a href="http://ynsgndz.xyz/">ynsgndz.xyz</a></h3></p>
 <!--
 **ynsgndz/ynsgndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
