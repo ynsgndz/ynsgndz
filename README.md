@@ -7,8 +7,8 @@
 <h2>Contact</h2>
 Linkedin :yunusgunduz
 <center>
-  <a href="http://fb.com/gndzyunus"><img src="https://www.facebook.com/images/icons-large/fb-xl-gradient.png"></a>
-  <a href="https://www.linkedin.com/in/yunusgunduz/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"></a>
+  <a href="http://fb.com/gndzyunus"><img src="https://www.facebook.com/images/icons-large/fb-xl-gradient.png"></a>   <br>
+  <a href="https://www.linkedin.com/in/yunusgunduz/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>
 github :ynsgndz
 </center>
 mail:yns3gndz@hotmail.com.tr
