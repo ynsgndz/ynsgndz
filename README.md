@@ -9,9 +9,9 @@
 
 <p>Linked<b>in:</b> <a href="https://www.linkedin.com/in/yunusgunduz/">linkedin/yunusgunduz</a></p>
 <p>Facebook:   <a href="http://fb.com/gndzyunus">facebook/yunusgunduz</a></p>
-<h3><p>📫 If you want to reach me : yns3gndz@hotmail.com.tr</p></h3>
-<p><h3> 💬 Medium: <a href="https://medium.com/@iynsgndz">medium/iynsgndz</a></p></h3> 
-<p><h3>My Blogs:  <a href="http://ynsgndz.xyz/">ynsgndz.xyz</a></h3></p>
+<p> 💬 Medium: <a href="https://medium.com/@iynsgndz">medium/iynsgndz</a></p>
+<p>My Blogs:  <a href="http://ynsgndz.xyz/">ynsgndz.xyz</a></p>
+<p> If you want to reach me : yns3gndz@hotmail.com.tr</p>
 <!--
 **ynsgndz/ynsgndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
