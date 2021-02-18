@@ -11,8 +11,10 @@
   <a href="http://fb.com/gndzyunus"><img src="https://www.facebook.com/images/icons-large/fb-xl-gradient.png"></a> 
   <a href="https://www.linkedin.com/in/yunusgunduz/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>
 </center>
-<p><h3>📫 If you want to reach me : yns3gndz@hotmail.com.tr</h3></p>
-<h3>💜My Blogs:</h3>  <a href="http://ynsgndz.xyz/">ynsgndz.xyz</a>
+<h3><p>📫 If you want to reach me : yns3gndz@hotmail.com.tr</p></h3>
+<p><h3>My Blogs:  <a href="http://ynsgndz.xyz/">ynsgndz.xyz</a></h3></p>
+<p><h3> 💬 Medium: <a href="https://medium.com/@iynsgndz">medium/iynsgndz</a></p></h3> 
+</h3>
 <!--
 **ynsgndz/ynsgndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
