@@ -1,6 +1,5 @@
 ### Hi there 👋
 <h1>Who is YUNUS GÜNDÜZ ?</h1>
-<p>*I am a student at KTU (CE) 
  <br>*My area of interest is Computer technologies and Software development.
 <br> *I’m currently learning .NET Technologies for backend development.<br>
  *I also love to make photoshop (manipulation) and graphic design (logo,banner etc.) 
