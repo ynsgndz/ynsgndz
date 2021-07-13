@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>Who is YUNUS GÜNDÜZ ?</h1>
  <br>*My area of interest is Computer technologies and Software development.
-<br> *I’m currently learning .NET Technologies for backend development.<br>
+<br>
  *I also love to make photoshop (manipulation) and graphic design (logo,banner etc.) 
 <h2>All the developers say these words.<br>
  "Programming isn't about what you know; it's about what you can figure out."</h2>
